@@ -10,3 +10,6 @@ ID 2 BOOM бомба
 
 Поставьте лайк моему дата сету.(пж)
 https://www.kaggle.com/datasets/stalker9969/yolo-cs2-t-st-boom
+
+видео с демонстрации работы
+https://youtu.be/KLf7_6daiEk
